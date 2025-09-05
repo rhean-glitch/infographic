@@ -1,0 +1,71 @@
+.two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1rem;
+}
+
+.content-two {
+    width: 61.188rem;
+    height: 35.938rem;
+    background: white;
+    border-radius: 1rem;
+}
+
+.content-two-htext h2 {
+    font-size: 1.875rem;
+    text-align: center;
+    margin-top: 3.5rem;
+    font-weight: lighter;
+}
+
+.card-bg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 4rem;
+}
+
+.card-bg2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 3.5rem;
+}
+
+.cards {
+    width: 11.563rem;
+    height: 8.688rem;
+    background: var(--primary);
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.c-circle {
+    width: 4.375rem;
+    height: 4.375rem;
+    background: var(--secondary);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -2rem;
+}
+
+.c-circle h1 {
+    font-size: 2.5rem;
+    font-weight: lighter;
+    color: white;
+}
+
+.c-content-text p {
+    font-size: 0.75rem;
+    font-weight: lighter;
+    padding: 0.5rem;
+    text-align: center;
+    color: white;
+}

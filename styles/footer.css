@@ -1,0 +1,28 @@
+.footer {
+    margin-top: 5rem;
+    height: 12.188rem;
+    background: var(--primary);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.f-sep {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    color: white;
+}
+
+.main-conc {
+    width: 18.938rem;
+    height: 8.5rem;
+    font-size: 3.125rem;
+}
+
+.sub-conc {
+    width: 60.5rem;
+    height: 5.063rem;
+    font-size: 1.25rem;
+}
